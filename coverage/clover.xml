@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1611518574934" clover="3.2.0">
+  <project timestamp="1611518574934" name="All files">
+    <metrics statements="18" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="9" elements="28" coveredelements="26" complexity="0" loc="18" ncloc="18" packages="1" files="3" classes="3"/>
+    <file name="anagram.js" path="/home/junior/Bureau/mds_b3_kuakuvi_desire_dev_unit/src/anagram.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="8" count="6" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+    </file>
+    <file name="reversestr.js" path="/home/junior/Bureau/mds_b3_kuakuvi_desire_dev_unit/src/reversestr.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="variousfunctions.js" path="/home/junior/Bureau/mds_b3_kuakuvi_desire_dev_unit/src/variousfunctions.js">
+      <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="6"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="0" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
